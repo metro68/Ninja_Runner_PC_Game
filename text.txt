@@ -1,0 +1,7 @@
+The Ninja Runner is a game designed for PC and mobile phones on all platforms.
+
+I worked on it with a group of 5 programmers as the Lead Graphics Designer and Writer.
+
+My task mainly involved using Unity Software to make efficient deisgns for the platform and coming up with ideas for obstacles in the game.
+
+The code was written mainly in C#.
